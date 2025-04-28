@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Enzo Teles de Moura, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Marupiara. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu linkedin "[Enzo Teles de Moura](https://www.linkedin.com/in/enzo-teles-de-moura-64ba49291/)", onde mostro meus projetos e ideia.
+Me chamo Enzo Teles de Moura, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Marupiara. Atualmente, estou cursando Engenharia de Software na FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu linkedin "[Enzo Teles de Moura](https://www.linkedin.com/in/enzo-teles-de-moura-64ba49291/)", onde mostro meus projetos e ideias.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
