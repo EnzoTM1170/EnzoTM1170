@@ -10,7 +10,7 @@ Me chamo Enzo Teles de Moura, tenho 19 anos e sou natural de São Paulo. Conclu�
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=02D9F7&width=700&lines=Bem-vindo!;Confira+meus+projetos!;Vamos+colaborar!" alt="typing"/>
 </p>
 
-- 🌱 Atualmente estou estudando Java e SQL/Banco de dados  
+- 🗒️ Atualmente estou estudando Java e SQL/Banco de dados  
 - 📫 E-mail para contato: [enzotm117@gmail.com](mailto:enzotm117@gmail.com)
 
 ---
