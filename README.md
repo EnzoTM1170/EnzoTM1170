@@ -31,22 +31,27 @@ Me chamo Enzo Teles de Moura, tenho 19 anos e sou natural de São Paulo. Conclu�
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:enzotm117@gmail.com)
 
  
- <h1 align="center">Github Metrics </h1>
- <p align = "center">
-<img width="600em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelDevProjects&theme=github_dark" />
-<p/>
-
+<h1 align="center">GitHub Metrics</h1>
+<p align="center">
+  <img width="600em" align="center"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoTM1170&theme=github_dark" />
+</p>
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=RafaelDevProjects&theme=tokyonight_duo&hide_border=true"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=EnzoTM1170&theme=tokyonight_duo&hide_border=true" />
 </p>
-</div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafaelDevProjects}/count.svg" /></p> 
-<br>
+  <br>
+  <p align="center"><b>Visitors Count 👽</b></p>
+  <p align="center">
+    <img align="center"
+         src="https://profile-counter.glitch.me/EnzoTM1170/count.svg" />
+  </p>
+  <br>
 </div>
 
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
